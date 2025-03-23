@@ -3,13 +3,13 @@
 To push this Mr Media Agency website to your GitHub repository, please follow these steps:
 
 1. Go to https://github.com/new
-2. Create a new repository named 'mrmedia'
+2. Create a new repository named 'MR'
 3. Do not initialize it with README, .gitignore, or license
 4. After creating the repository, copy its URL
-5. Run the following commands in your terminal, replacing YOUR_USERNAME with your actual GitHub username:
+5. Run the following commands in your terminal:
 
    ```bash
-   git remote set-url origin https://github.com/YOUR_USERNAME/mrmedia.git
+   git remote set-url origin https://github.com/mklffm/MR.git
    git push -u origin main
    ```
 
